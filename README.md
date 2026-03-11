@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Xu Zhang (张旭)
 
-<!--
-**House-yuyu/House-yuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am a Ph.D. student at Wuhan University (WHU), School of Computer Science. Member of SIGMA Lab.
+- 💻 My current research interests lie in All-in-one image restoration (AiOIR) and Generative AI. I am also interested in multimodal models.  
+- 👯 I’m looking to collaborate on AiOIR and Generative AI.
+- 📫 **Contact**: Feel free to contact me via zhangx0802@whu.edu.cn
+- 🌐 **Homepage**: https://house-yuyu.github.io/
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 Recently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- All-in-one image restoration (AiOIR), Generative AI 
+- RL & Reasoning in MLLMs 
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=House-yuyu&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=House-yuyu&layout=compact&theme=transparent" />
+</p>
