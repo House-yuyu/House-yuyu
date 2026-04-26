@@ -9,7 +9,8 @@
 ## 👨🏻‍💻 Recently working on:
 
 - All-in-one image restoration (AiOIR), Generative AI 
-- RL & Reasoning in MLLMs 
+- RL & Reasoning in MLLMs
+- VLA & 3D Reconstruction
 
 ## 📊 GitHub Stats
 
