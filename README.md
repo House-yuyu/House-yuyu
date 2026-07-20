@@ -15,6 +15,6 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=House-yuyu&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=House-yuyu&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=House-yuyu&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=House-yuyu&layout=compact&theme=transparent" alt="Top languages" />
 </p>
