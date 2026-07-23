@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on AiOIR and Generative AI.
 - 📫 **Contact**: Feel free to contact me via zhangx0802@whu.edu.cn
 - 🌐 **Homepage**: https://house-yuyu.github.io/
+- 📰 **News:** I’m currently looking for creative and motivated undergraduate students at Wuhan University. Feel free to contact me and work together on something interesting!
 
 ## 👨🏻‍💻 Recently working on:
 
