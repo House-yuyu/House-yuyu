@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Xu Zhang (张旭)
 
 - 🎓 I am a Ph.D. student at Wuhan University (WHU), School of Computer Science. Member of [SIGMA Lab](https://sigma.whu.edu.cn/) .
-- 💻 My current research interests lie in All-in-one image restoration (AiOIR) , Generative AI, and Multimodal models.  
-- 📫 **Contact**: Feel free to contact me via zhangx0802@whu.edu.cn
 - 🌐 **Homepage**: https://house-yuyu.github.io/
 - 📰 **News:** I’m currently looking for creative and motivated undergraduate students at Wuhan University. Feel free to contact me and work together on something interesting!
+- 📫 **Contact**: Feel free to contact me via zhangx0802@whu.edu.cn
 
 ## 👨🏻‍💻 Recently working on:
 
