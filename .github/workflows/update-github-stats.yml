@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "13 1 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/update-github-stats.cjs"
+      - ".github/workflows/update-github-stats.yml"
 
 permissions:
   contents: write
