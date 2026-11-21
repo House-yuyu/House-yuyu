@@ -15,7 +15,7 @@
 
 <p align="left">
   <img height="160"
-       src="https://github-stats-extended.vercel.app/api?username=House-yuyu&show_icons=true&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+       src="https://raw.githubusercontent.com/House-yuyu/House-yuyu/main/assets/github-stats.svg?v=2026-11-21"
        alt="GitHub stats" />
   <img height="160"
        src="https://github-stats-extended.vercel.app/api/top-langs?username=House-yuyu&layout=compact&theme=transparent&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
